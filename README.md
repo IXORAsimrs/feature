@@ -1,13 +1,14 @@
 # LIST FEATURE OF IXORA
 
 - ### FRONTEND
- - #### public
-  - [ ] login
+  
+  - #### PUBLIC
+    - [ ]  LOGIN
 
- - #### admin
-  - [ ] login
-  - [ ] dashboard admin
+  - #### ADMIN
+    - [ ]  LOGIN
+    - [ ]  DASHBOARD ADMIN
 
- - #### petugas - pendaftaran
-  - [ ] login
-  - [ ] dashboard petugas
+  - #### PETUGAS - (PENDAFTARAN)
+    - [ ]  LOGIN
+    - [ ]  DASHBOARD PETUGAS
